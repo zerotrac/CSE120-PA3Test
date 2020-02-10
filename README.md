@@ -45,4 +45,4 @@ And then
 ./piazzatest <test-id>
 ```
 
-where <test-id> is an integer between 1 and 4. You can check the code to see more details.
+where `<test-id>` is an integer between 1 and 4. You can check the code to see more details.
